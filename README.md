@@ -1,2 +1,2 @@
-# funWithFlags
-FunWithFlags is an educational application that allows you to obtain information on several countries in one click and that highlights the flags.
+# Application funWithFlags
+FunWithFlags est une application éducative qui permet d'obtenir en un simple clic des informations sur plusieurs pays et qui met en avant les drapeaux.
